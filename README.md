@@ -1,3 +1,3 @@
 Praktikum_prognet
 
-database : db
+database_name : db
